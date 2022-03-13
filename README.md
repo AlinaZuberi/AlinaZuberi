@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlinaZuberi
+- 👀 I’m interested in data analysis, data science and app development 
+- 🌱 I’m currently learning python - 100 Days of Python code and Python for Data Science and Machine Learning 
